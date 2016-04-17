@@ -1,0 +1,64 @@
+#main-menu 
+{
+	background-color: gray;
+	border-radius: 0;
+}
+
+
+.navbar-brand h1 {
+  color: black;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.container
+{
+	position: relative;
+	margin: 0px;
+}
+
+#navbar-collapse-1
+{	
+  border-spacing: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.navbar-nav
+{
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+#nav-list li
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+	background-color: #33FFAA;
+	font-size: 1.5em;
+}
+
+p.text-center
+{
+	font-size: 2.5em;
+}
+
+#chicken
+{
+	font-size: 1.5em;
+}
+
+div.meal-container {
+  background-color: #00FFFF;
+  border: 1px solid black;
+  font-family: Helvetica;
+  position: relative;
+  margin-left: 12px;  
+  margin-right: 12px;  
+  margin-bottom: 14px;
+  padding: 12px;
+  height: 1000px;
+}
