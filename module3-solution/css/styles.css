@@ -39,6 +39,7 @@
 	text-align: center;
 	background-color: #33FFAA;
 	font-size: 1.5em;
+	border: 1px solid black;
 }
 
 p.text-center
